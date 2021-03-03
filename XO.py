@@ -147,8 +147,3 @@ while win==0:
                     arr[w][z]=count
                     count+=1
             count=0
-
-            
-
-
-
